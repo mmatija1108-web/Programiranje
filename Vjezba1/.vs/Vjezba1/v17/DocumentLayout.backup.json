@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Matija Mla\u0111enovi\u0107\\ProgramiranjeGit\\Programiranje\\Programiranje\\Vjezba1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C945B3A-7B5B-4FDD-B6C8-05EB31FA002F}|Vjezba1.csproj|d:\\matija mla\u0111enovi\u0107\\programiranjegit\\programiranje\\programiranje\\vjezba1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C945B3A-7B5B-4FDD-B6C8-05EB31FA002F}|Vjezba1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Matija Mla\u0111enovi\u0107\\ProgramiranjeGit\\Programiranje\\Programiranje\\Vjezba1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Matija Mla\u0111enovi\u0107\\ProgramiranjeGit\\Programiranje\\Programiranje\\Vjezba1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T07:25:23.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
