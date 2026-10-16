@@ -6,3 +6,10 @@ D:\Matija Mlađenović\ProgramiranjeGit\Programiranje\Programiranje\Vjezba1\obj\
 D:\Matija Mlađenović\ProgramiranjeGit\Programiranje\Programiranje\Vjezba1\obj\Debug\Vjezba1.exe
 D:\Matija Mlađenović\ProgramiranjeGit\Programiranje\Programiranje\Vjezba1\obj\Debug\Vjezba1.pdb
 D:\Matija Mlađenović\ProgramiranjeGit\Programiranje\Programiranje\Vjezba1\obj\Debug\Vjezba1.exe.config
+C:\Users\Matija\Documents\GitHub\Programiranje\Vjezba1\bin\Debug\Vjezba1.exe.config
+C:\Users\Matija\Documents\GitHub\Programiranje\Vjezba1\bin\Debug\Vjezba1.exe
+C:\Users\Matija\Documents\GitHub\Programiranje\Vjezba1\bin\Debug\Vjezba1.pdb
+C:\Users\Matija\Documents\GitHub\Programiranje\Vjezba1\obj\Debug\Vjezba1.csproj.AssemblyReference.cache
+C:\Users\Matija\Documents\GitHub\Programiranje\Vjezba1\obj\Debug\Vjezba1.csproj.CoreCompileInputs.cache
+C:\Users\Matija\Documents\GitHub\Programiranje\Vjezba1\obj\Debug\Vjezba1.exe
+C:\Users\Matija\Documents\GitHub\Programiranje\Vjezba1\obj\Debug\Vjezba1.pdb
